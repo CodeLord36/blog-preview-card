@@ -1,4 +1,4 @@
-# Frontend Mentor Challenge – Blog Card
+# Frontend Mentor Challenge – Blog Preview Card
 
 This is a solution to the **Frontend Mentor** challenge. Built with:
 
