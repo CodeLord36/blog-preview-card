@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "FigTree";
+  src: url("../../assets/fonts/Figtree-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FigTree";
+  src: url("../../assets/fonts/Figtree-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
