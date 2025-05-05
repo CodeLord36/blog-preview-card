@@ -9,7 +9,7 @@ This is a solution to the **Frontend Mentor** challenge. Built with:
 
 ## 📸 Preview
 
-![Project Screenshot](./public/preview.jpg)
+![Project Screenshot](./preview.jpg)
 
 ## 🚀 Live Demo
 
