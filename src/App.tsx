@@ -14,7 +14,13 @@ function App() {
         <div className={style.content}>
           <div className={style.learn}>Learning</div>
           <div className={style.publish}>Published 21 Dec 2023</div>
-          <div className={style.foundations}>HTML & CSS foundations</div>
+          <a
+            href="https://www.frontendmentor.io?ref=challenge"
+            target="_blank"
+            className={style.foundations}
+          >
+            HTML & CSS foundations
+          </a>
           <div className={style.text}>
             These languages are the backbone of every website, defining
             structure, content, and presentation.

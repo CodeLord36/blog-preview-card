@@ -57,6 +57,13 @@
   padding-top: 12px;
   font-size: 20px;
   font-weight: 800;
+  color: hsl(0, 0%, 7%);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.foundations:hover {
+  color: hsl(47, 88%, 63%);
 }
 
 .text {
