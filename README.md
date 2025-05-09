@@ -21,7 +21,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/CodeLord36/blog-preview-card.git
-cd your-repo-name
+cd blog-preview-card
 npm install
 ```
 
